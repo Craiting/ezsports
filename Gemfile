@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "importmap-rails", "~> 1.1"
+
+gem "stimulus-rails", "~> 1.2"

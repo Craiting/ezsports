@@ -229,6 +229,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
+  stimulus-rails (~> 1.2)
   tzinfo-data
   web-console
   webdrivers
